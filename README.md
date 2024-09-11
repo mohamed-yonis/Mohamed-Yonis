@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Mohamed Yonis</h1>
 <h3 align="center">A passionate Full Stack developer from Somalia</h3>
 
@@ -9,6 +8,8 @@
 - 🔭 I’m currently working on [School Management System](https://github.com/juweyriyo/School_System)
 
 - 🌱 I’m currently learning **React Native**
+
+- 👨‍💻 All of my projects are available at [https://my-portfolio-va5p-b4rcc4z4g-mohamed-yonis-projects-ed72e778.vercel.app/](https://my-portfolio-va5p-b4rcc4z4g-mohamed-yonis-projects-ed72e778.vercel.app/)
 
 - 💬 Ask me about **React.js Nodejs JavaScript php**
 
@@ -31,4 +32,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-yonis&show_icons=true&locale=en&layout=compact" alt="mohamed-yonis" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-yonis&" alt="mohamed-yonis" /></p>
-
